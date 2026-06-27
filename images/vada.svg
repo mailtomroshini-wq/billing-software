@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
+  <rect width="200" height="150" fill="#fef3c7"/>
+  <circle cx="85" cy="70" r="22" fill="#d97706" stroke="#92400e" stroke-width="2"/>
+  <circle cx="115" cy="70" r="22" fill="#d97706" stroke="#92400e" stroke-width="2"/>
+  <circle cx="85" cy="70" r="8" fill="#78350f"/>
+  <circle cx="115" cy="70" r="8" fill="#78350f"/>
+  <text x="100" y="130" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="14" fill="#92400e" font-weight="600">Vada</text>
+</svg>

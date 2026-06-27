@@ -1,0 +1,30 @@
+# Image Credits
+
+Each menu photo is matched to its dish where possible. Sources: Wikimedia Commons (CC), Unsplash License, Pexels License.
+
+| Dish | File | Source & description |
+|------|------|----------------------|
+| Idly | idly.jpg | Unsplash — Idli with chutneys on banana leaf (Mayur Roxan) |
+| Puttu | puttu.jpg | Wikimedia Commons — Puttu with kadala curry |
+| Poori | poori.jpg | Wikimedia Commons — Poori with side dishes |
+| Coffee | coffee.jpg | Wikimedia Commons — Filter kaapi (South Indian coffee) |
+| Dosai | dosai.jpg | Unsplash — Masala dosa on banana leaf |
+| Vada | vada.jpg | Wikimedia Commons — Medu vada |
+| Pazhampori | pazhampori.jpg | Pexels — Banana fritters |
+| Pongal | pongal.jpg | Wikimedia Commons — Ven pongal with sambar & chutney |
+| Upma | upma.jpg | Wikimedia Commons — Upma with chutney |
+| Masala Dosa | masala-dosa.jpg | Unsplash — Masala dosa |
+| Parotta | parotta.jpg | Wikimedia Commons — Kerala parotta stacked |
+| Chappathi | chappathi.jpg | Wikimedia Commons — South Indian chapati with sabji |
+| Lemon Rice | lemon-rice.jpg | Wikimedia Commons — Lemon rice |
+| Sambar Rice | sambar-rice.jpg | Wikimedia Commons — Rice with onion sambar (mixed) |
+| Biryani | biryani.jpg | Pexels — Indian biryani |
+| Kesari | kesari.jpg | Wikimedia Commons — Kesari bhath |
+| Tea | tea.jpg | Wikimedia Commons — Kulhad chai (clay cup tea) |
+| Samosa | samosa.jpg | Pexels — Crispy samosas |
+| Filter Coffee | filter-coffee.jpg | Wikimedia Commons — Filter coffee with froth (Bangalore) |
+| Meals | meals.jpg | Unsplash — Tamil vegetarian lunch thali |
+
+Licenses: https://unsplash.com/license | https://www.pexels.com/license | https://commons.wikimedia.org/
+
+To refresh images in browser: hard refresh (Ctrl+Shift+R) after update.

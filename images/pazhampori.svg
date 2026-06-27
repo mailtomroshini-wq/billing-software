@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
+  <rect width="200" height="150" fill="#fef3c7"/>
+  <ellipse cx="100" cy="75" rx="40" ry="25" fill="#fde047" stroke="#ca8a04" stroke-width="2"/>
+  <ellipse cx="100" cy="75" rx="25" ry="15" fill="#eab308"/>
+  <text x="100" y="130" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="13" fill="#92400e" font-weight="600">Pazhampori</text>
+</svg>
