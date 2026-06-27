@@ -1,0 +1,26 @@
+{
+  "version": 6,
+  "updatedAt": "2026-06-27T00:00:00.000Z",
+  "menu": [
+    { "id": "1", "name": "Idly", "price": 40, "image": "images/idly.jpg", "category": "Breakfast", "active": true },
+    { "id": "2", "name": "Puttu", "price": 50, "image": "images/puttu.jpg", "category": "Breakfast", "active": true },
+    { "id": "3", "name": "Poori", "price": 45, "image": "images/poori.jpg", "category": "Breakfast", "active": true },
+    { "id": "4", "name": "Coffee", "price": 20, "image": "images/coffee.jpg", "category": "Beverages", "active": true },
+    { "id": "5", "name": "Dosai", "price": 60, "image": "images/dosai.jpg", "category": "Breakfast", "active": true },
+    { "id": "6", "name": "Vada", "price": 35, "image": "images/vada.jpg", "category": "Breakfast", "active": true },
+    { "id": "7", "name": "Pazhampori", "price": 30, "image": "images/pazhampori.jpg", "category": "Snacks", "active": true },
+    { "id": "8", "name": "Pongal", "price": 55, "image": "images/pongal.jpg", "category": "Breakfast", "active": true },
+    { "id": "9", "name": "Upma", "price": 45, "image": "images/upma.jpg", "category": "Breakfast", "active": true },
+    { "id": "10", "name": "Masala Dosa", "price": 75, "image": "images/masala-dosa.jpg", "category": "Breakfast", "active": true },
+    { "id": "11", "name": "Parotta", "price": 50, "image": "images/parotta.jpg", "category": "Breakfast", "active": true },
+    { "id": "12", "name": "Chappathi", "price": 40, "image": "images/chappathi.jpg", "category": "Breakfast", "active": true },
+    { "id": "13", "name": "Lemon Rice", "price": 55, "image": "images/lemon-rice.jpg", "category": "Rice", "active": true },
+    { "id": "14", "name": "Sambar Rice", "price": 65, "image": "images/sambar-rice.jpg", "category": "Rice", "active": true },
+    { "id": "15", "name": "Biryani", "price": 120, "image": "images/biryani.jpg", "category": "Rice", "active": true },
+    { "id": "16", "name": "Kesari", "price": 35, "image": "images/kesari.jpg", "category": "Snacks", "active": true },
+    { "id": "17", "name": "Tea", "price": 15, "image": "images/tea.jpg", "category": "Beverages", "active": true },
+    { "id": "18", "name": "Samosa", "price": 25, "image": "images/samosa.jpg", "category": "Snacks", "active": true },
+    { "id": "19", "name": "Filter Coffee", "price": 25, "image": "images/filter-coffee.jpg", "category": "Beverages", "active": true },
+    { "id": "20", "name": "Meals", "price": 90, "image": "images/meals.jpg", "category": "Rice", "active": true }
+  ]
+}
