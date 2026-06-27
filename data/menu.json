@@ -1,0 +1,174 @@
+{
+  "version": 1782571780469,
+  "updatedAt": "2026-06-27T14:49:47.637Z",
+  "menu": [
+    {
+      "id": "1",
+      "name": "Idly",
+      "price": 40,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/idly.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Puttu",
+      "price": 50,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/puttu.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Poori",
+      "price": 45,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/poori.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Coffee",
+      "price": 20,
+      "category": "Beverages",
+      "active": true,
+      "image": "images/coffee.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Dosai",
+      "price": 60,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/dosai.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Vada",
+      "price": 35,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/vada.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Pazhampori",
+      "price": 30,
+      "category": "Snacks",
+      "active": true,
+      "image": "images/pazhampori.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Pongal",
+      "price": 55,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/pongal.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Upma",
+      "price": 45,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/upma.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Masala Dosa",
+      "price": 75,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/masala-dosa.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Parotta",
+      "price": 50,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/parotta.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Chappathi",
+      "price": 40,
+      "category": "Breakfast",
+      "active": true,
+      "image": "images/chappathi.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Lemon Rice",
+      "price": 55,
+      "category": "Rice",
+      "active": true,
+      "image": "images/lemon-rice.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Sambar Rice",
+      "price": 65,
+      "category": "Rice",
+      "active": true,
+      "image": "images/sambar-rice.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Biryani",
+      "price": 120,
+      "category": "Rice",
+      "active": true,
+      "image": "images/biryani.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Kesari",
+      "price": 35,
+      "category": "Snacks",
+      "active": true,
+      "image": "images/kesari.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Tea",
+      "price": 15,
+      "category": "Beverages",
+      "active": true,
+      "image": "images/tea.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Samosa",
+      "price": 25,
+      "category": "Snacks",
+      "active": true,
+      "image": "images/samosa.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Filter Coffee",
+      "price": 25,
+      "category": "Beverages",
+      "active": true,
+      "image": "images/filter-coffee.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Meals",
+      "price": 90,
+      "category": "Rice",
+      "active": true,
+      "image": "images/meals.jpg"
+    },
+    {
+      "id": "21",
+      "name": "French Fry",
+      "price": 80,
+      "category": "Snacks",
+      "active": true,
+      "image": "images/menu/21.jpg"
+    }
+  ]
+}
