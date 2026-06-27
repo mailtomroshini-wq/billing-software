@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
-  <rect width="200" height="150" fill="#ecfdf5"/>
-  <ellipse cx="75" cy="78" rx="22" ry="18" fill="#fde68a" stroke="#d97706" stroke-width="1.5"/>
-  <ellipse cx="100" cy="75" rx="22" ry="18" fill="#fed7aa" stroke="#ea580c" stroke-width="1.5"/>
-  <ellipse cx="125" cy="78" rx="22" ry="18" fill="#bbf7d0" stroke="#16a34a" stroke-width="1.5"/>
-  <rect x="55" y="95" width="90" height="8" rx="4" fill="#d6d3d1"/>
-  <text x="100" y="125" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" fill="#166534" font-weight="600">Meals</text>
-</svg>
