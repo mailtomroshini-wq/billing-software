@@ -5,12 +5,13 @@ A simple restaurant billing website built with **HTML, CSS, and JavaScript**. No
 ## Features
 
 - **Menu billing** — click items to add to cart instantly
-- **Pay Now** — dynamic UPI QR code with exact bill amount
-- **Print bill** — browser print for receipts
+- **Pay Now** — dynamic UPI QR code with exact bill amount (UPI: `mailtomyogesh-3@oksbi`)
+- **Print bill** — auto-prints after Mark as Paid, or manual Print Bill
 - **Clear cart** — reset current order
 - **Manage menu** — add, edit, delete menu items with images (admin)
-- **Monthly sales report** — view totals, order count, top item, export CSV
+- **Monthly sales report** — view totals, order count, top item, export CSV or PDF
 - **Backup** — export/import all data as JSON
+- **Publish to Vercel** — export ZIP with menu + images for live site update
 
 ## Menu Items (default — 20 dishes)
 
@@ -48,12 +49,28 @@ npx serve .
 
 1. Login to Admin
 2. Go to **Settings**
-3. Set your **UPI ID** (e.g. `yourname@paytm`) and **Payee Name**
+3. Set your **UPI ID** (default: `mailtomyogesh-3@oksbi`) and **Payee Name**
 4. Save — QR codes on the billing page will use these details
+
+## Update Live Site (Vercel / Netlify)
+
+Admin image edits are saved in your browser. To update the **live deployed site**:
+
+1. Login to **Admin** → edit menu items / upload images
+2. Click **Publish to Vercel** — downloads a ZIP file
+3. Extract the ZIP into your project folder (overwrites `data/menu.json`, `data/settings.json`, and `images/menu/*`)
+4. Commit and push to GitHub — Vercel redeploys automatically
+5. All visitors get the updated menu on next page load
 
 ## Deploy to the Internet
 
-### Option A: Netlify Drop (easiest)
+### Option A: Vercel (recommended)
+
+1. Push this project to GitHub
+2. Go to [vercel.com](https://vercel.com) → Import project
+3. Deploy — no build step needed (static HTML site)
+
+### Option B: Netlify Drop (easiest)
 
 1. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
 2. Drag the entire project folder onto the page
@@ -84,16 +101,26 @@ All data (menu, orders, settings) is stored in **localStorage** in the browser.
 ├── css/
 │   ├── style.css
 │   └── print.css
+├── data/
+│   ├── menu.json       Menu synced to live site
+│   └── settings.json   UPI & restaurant name
 ├── js/
 │   ├── storage.js
+│   ├── deploy-sync.js  Publish ZIP for Vercel
 │   ├── cart.js
 │   ├── menu.js
 │   ├── upi.js
 │   ├── billing.js
 │   ├── admin.js
 │   └── reports.js
-└── images/             Menu item images
+└── images/             Menu item photos (Unsplash & Pexels)
 ```
+
+## Menu Photos
+
+Real food photos are included in `images/` from free sources (Unsplash & Pexels). See `images/CREDITS.txt` for attribution.
+
+If you still see old placeholder icons, clear site data in your browser or open Admin → Export Backup, then refresh the page (menu auto-updates to photos on load).
 
 ## Default Prices (sample)
 
