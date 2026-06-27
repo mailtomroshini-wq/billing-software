@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
+  <rect width="200" height="150" fill="#fff7ed"/>
+  <ellipse cx="100" cy="72" rx="58" ry="32" fill="#fde68a" stroke="#ea580c" stroke-width="2"/>
+  <ellipse cx="100" cy="72" rx="38" ry="20" fill="#fdba74"/>
+  <circle cx="88" cy="65" r="5" fill="#dc2626"/>
+  <circle cx="108" cy="70" r="4" fill="#16a34a"/>
+  <circle cx="98" cy="78" r="4" fill="#854d0e"/>
+  <text x="100" y="125" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="12" fill="#9a3412" font-weight="600">Masala Dosa</text>
+</svg>

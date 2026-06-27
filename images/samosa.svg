@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
+  <rect width="200" height="150" fill="#fffbeb"/>
+  <path d="M70 95 L100 45 L130 95 Z" fill="#fde68a" stroke="#d97706" stroke-width="2"/>
+  <path d="M78 88 L100 55 L122 88 Z" fill="#fbbf24"/>
+  <text x="100" y="125" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" fill="#92400e" font-weight="600">Samosa</text>
+</svg>

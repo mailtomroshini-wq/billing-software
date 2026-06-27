@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
+  <rect width="200" height="150" fill="#fdf4ff"/>
+  <rect x="65" y="58" width="70" height="40" rx="6" fill="#f0abfc" stroke="#c026d3" stroke-width="2"/>
+  <circle cx="85" cy="72" r="5" fill="#fde047"/>
+  <circle cx="100" cy="68" r="4" fill="#fde047"/>
+  <circle cx="115" cy="74" r="5" fill="#fde047"/>
+  <text x="100" y="125" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" fill="#86198f" font-weight="600">Kesari</text>
+</svg>

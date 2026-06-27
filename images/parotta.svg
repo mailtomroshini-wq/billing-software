@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="150" viewBox="0 0 200 150">
+  <rect width="200" height="150" fill="#fef3c7"/>
+  <path d="M55 95 Q100 45 145 95" fill="#fde68a" stroke="#d97706" stroke-width="2"/>
+  <path d="M65 90 Q100 55 135 90" fill="#fbbf24"/>
+  <text x="100" y="125" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="14" fill="#92400e" font-weight="600">Parotta</text>
+</svg>
